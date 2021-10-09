@@ -1,1 +1,1 @@
-# rest_assured_basic
+# rest_assured_gradle_basic
